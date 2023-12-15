@@ -1,6 +1,5 @@
 /*
  * File: int_to_string.c
- * 
  */
 
 #include <stdlib.h>

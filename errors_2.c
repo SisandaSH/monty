@@ -1,7 +1,5 @@
 /*
  * File: errors_2.c
- * 
- *       
  */
 
 #include "monty.h"

@@ -1,6 +1,5 @@
 /*
  * File: tokenize_string.c
- *
  */
 
 #include <stdlib.h>

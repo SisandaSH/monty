@@ -1,6 +1,5 @@
 /*
  * File: monty_main.c
- * 
  */
 
 #include "monty.h"

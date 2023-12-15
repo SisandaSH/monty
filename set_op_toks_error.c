@@ -1,6 +1,5 @@
 /*
  * File: set_op_tok_error.c
- * 
  */
 
 #include "monty.h"
